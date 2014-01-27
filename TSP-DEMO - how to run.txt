@@ -1,0 +1,6 @@
+Load the program TSP-DEMO.lsp file by File->Load
+Load the data file TSP_TT56.lsp file by File->Load
+
+Type (tsp-demo) and press enter key
+
+Follow the instructions and check the results.

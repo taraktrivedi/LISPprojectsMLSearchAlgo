@@ -1,0 +1,5 @@
+Load the .lsp file by File->Load
+
+Type (nqueen) and press enter key
+
+Follow the instructions and check various possible moves !

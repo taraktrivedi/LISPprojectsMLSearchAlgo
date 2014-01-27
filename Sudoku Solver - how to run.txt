@@ -1,0 +1,5 @@
+Load the .lsp file by File->Load
+
+Type (sudokus) and press enter key
+
+Follow the instructions to solve!
